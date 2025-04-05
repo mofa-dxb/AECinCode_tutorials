@@ -89,7 +89,7 @@ These tutorials aim to give a gentle introduction to ML learning for students of
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the ```notebooks/01_data_cleaning.ipynb``` in [colab](https://colab.research.google.com/github/STASYA00/iaaC2024_tutorials/blob/main/src/notebooks/01_data_cleaning.ipynb)
+Open the ```notebooks/01_data_cleaning.ipynb``` in [colab](https://colab.research.google.com/github/STASYA00/AECinCode_tutorials/blob/main/src/notebooks/01_data_cleaning.ipynb)
 
 ### Prerequisites
 * Intermediate Python knowledge (Datacamp courses: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science), [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python))
@@ -126,7 +126,7 @@ Nevertheless you __must__:
 
 ## How to cite
 
-> S. Fedorova, ML algorithms for architects, (2024), GitHub repository, https://github.com/STASYA00/IAAC2024_tutorials/
+> S. Fedorova, ML algorithms for architects, (2024), GitHub repository, https://github.com/STASYA00/AECinCode_tutorials/
 
 or use Github citation on the right of the page for APA or bibtex formats
 
